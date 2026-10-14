@@ -1,0 +1,21 @@
+PROJECT DESCRIPTION
+===================
+
+This project is a personal portfolio website for Bibek Chakraborty, built
+entirely with HTML5 and CSS3 as required by the internship brief. The site
+introduces me, lists my technical skills and academic projects, and gives
+visitors a simple way to get in touch.
+
+It is structured with semantic HTML elements (header, nav, main, section,
+article and footer), with each section given an ID so the navigation links
+jump to the right place. The layout uses CSS Grid for the main page areas and
+CSS Flexbox for the navigation, buttons and card rows.
+
+Styling is kept in a separate style.css file and driven by CSS custom
+properties (variables) for the colour palette, spacing and corner radius, so
+the whole theme can be adjusted from one place. I added hover and focus
+states to the buttons, navigation links and cards, and a media query that
+reflows the layout to a single column on phones and tablets.
+
+The website is responsive, has no horizontal scrolling, and uses readable
+fonts with sufficient colour contrast on both desktop and mobile screens.
